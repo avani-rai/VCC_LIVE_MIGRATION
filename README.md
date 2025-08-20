@@ -1,5 +1,12 @@
 # Live Migration of Virtual Machines using KVM & Libvirt
 
+
+## Team Members
+
+- **Avani Rai** – B22CS094  
+- **Manya** – B22CS032  
+- **Khushi Jitendra Agrawal** – B22CS005
+  
 ## Project Overview
 
 This project explores live migration strategies for Virtual Machines (VMs) using **KVM** and **libvirt**, aiming to reduce downtime and optimize resource usage.
@@ -108,8 +115,3 @@ sudo /access_bit.sh
 
 ---
 
-## Team Members
-
-- **Avani Rai** – B22CS094  
-- **Manya** – B22CS032  
-- **Khushi Jitendra Agrawal** – B22CS005  
